@@ -1,3 +1,5 @@
+package model;
+
 import exceptions.NegativeWeightException;
 import model.Ingredient;
 

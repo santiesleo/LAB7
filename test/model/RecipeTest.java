@@ -1,3 +1,5 @@
+package model;
+
 import model.Ingredient;
 import model.Recipe;
 import org.junit.Test;
